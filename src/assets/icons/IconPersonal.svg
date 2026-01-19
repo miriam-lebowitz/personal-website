@@ -1,0 +1,21 @@
+<svg width="48" height="48" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .primary { fill: #5FAE8E; }
+    .stroke { stroke: #5FAE8E; }
+  </style>
+
+  <!-- Outer Circle -->
+  <circle cx="12" cy="12" r="10" fill="none" class="stroke" stroke-width="1.5"/>
+
+  <!-- ML Text (Centered) -->
+  <text
+    x="12"
+    y="15.5"
+    class="primary"
+    font-family="Georgia, serif"
+    font-size="9"
+    font-weight="600"
+    text-anchor="middle">
+    ML
+  </text>
+</svg>

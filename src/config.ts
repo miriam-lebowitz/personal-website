@@ -1,9 +1,12 @@
+// import PersonalIcon from '../public/favicon.svg'
+
 export const SITE = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
+  author: "Miriam Lebowitz",
+  profile: "",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "",
+  // ogImage: "astropaper-og.jpg",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
